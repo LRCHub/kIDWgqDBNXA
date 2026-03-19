@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジニー・イン・ア・ボトル",
+  "base_artist": "Christina Aguilera",
+  "createdAt": "2026-03-19T19:25:28.615053Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Genie In a Bottle",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/pl_01_Genie_In_a_Bottle_Christina_Aguilera.txt"
+    }
+  ]
+}
